@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gabriel.
-- 🖥️ I started learning programming at the start of November 2021.
-- 👀 I’m a student currently waiting for uni to begin.
+- 👀 I’m a Y2 CS student in NUS.
 - 📫 You can reach me on Telegram @gabchua or my email gabrielchua29@gmail.com
 
 <!---
