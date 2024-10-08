@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel.
-- 👀 I’m a Y2 CS student in NUS.
+- 👀 I’m a Y3 CS student in NUS.
 - 📫 You can reach me on Telegram @gabchua or my email gabrielchua29@gmail.com
 
 <!---
